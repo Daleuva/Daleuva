@@ -5,9 +5,9 @@ Passionate about technology, design, and continuous learning 💻🎨🚀
 
 - 💼 Strong experience with **Node.js** and **C#**  
 - ⚛️ Skilled in **React**, **React Native**, and **TypeScript**  
-- 🌐 Experienced with **JavaScript**, **REST APIs**, **Next.js**, and **PHP**  
-- ☕ Familiar with **Java**, **HTTP**, and **Docker**  
-- 🎨 UI/UX design expertise with **Figma**, **Adobe Suite**, and **Blender**
+- 🌐 Experienced with **JavaScript**, **REST APIs** and **Next.js**
+- ☕ Familiar with **GIT**, and **Docker**  
+- 🎨 UI/UX design expertise with **Figma**, **Photoshop**, and **Blender**
 - 🌍 **Languages:** Native in **Portuguese**, fluent in **English**, and basic knowledge of **Spanish** and **German**  
 
 
