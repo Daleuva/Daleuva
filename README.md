@@ -1,6 +1,6 @@
 # Hi there, I'm Joalison 👋
 
-I'm a **developer and designer** with **4 years of experience** creating modern, scalable solutions focused on great user experiences.  
+I'm a **developer and designer** with **3 years of experience** creating modern, scalable solutions focused on great user experiences.  
 Passionate about technology, design, and continuous learning 💻🎨🚀
 
 - 💼 Strong experience with **Node.js** and **C#**  
